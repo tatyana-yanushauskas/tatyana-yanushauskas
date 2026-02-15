@@ -17,7 +17,7 @@
 |--------|------|-------------|
 | [**bank-credit-analysis-ml**](https://github.com/tatyana-yanushauskas/bank-credit-analysis-ml) | Банк, кредитный портфель | Витрина для скоринговой модели, оконные функции, расчёт резервов. Сократила время подготовки данных с 3 дней до 2 часов. |
 | [**mobile-game-product-analytics**](https://github.com/tatyana-yanushauskas/mobile-game-product-analytics) | Мобильная игра | DAU/WAU/MAU, Sticky Factor, K-factor, сегментация лояльных игроков. Презентация с рекомендациями. |
-| [**fitness-club-customer-analysis**](https://github.com/tatyana-yanushauskas/fitness-club-customer-analysis) | Фитнес-клуб, фриланс | 3 этапа: очистка данных, EDA, сегментация, динамика базы. Сегмент «индивидуалы» — 12% базы, чек выше на 37%. |
+| [**fitness-club-customer-analysis**](https://github.com/tatyana-yanushauskas/fitness-club-customer-analysis) | Фитнес-клуб, фриланс | Трёхэтапный анализ клиентской базы: очистка данных, EDA, исследование динамики, сегментация. Выявила ключевые паттерны поведения и сезонность для планирования маркетинга. |
 | [**ab-test-push-vs-sms**](https://github.com/tatyana-yanushauskas/ab-test-push-vs-sms) | A/B-тест, ювелирка | Стратифицированный анализ по городам и годам. SMS значимо лучше только в Москве. Универсальная функция run_ab_test(). |
 | [**ab-test-design-split**](https://github.com/tatyana-yanushauskas/ab-test-design-split) | Дизайн A/B-теста | Power analysis, расчёт выборки, хеширование с солью. Размер группы 1418, длительность 15 дней. Код для разработчиков. |
 | [**ab-test-retail-case**](https://github.com/tatyana-yanushauskas/ab-test-retail-case) | Ритейл, 124 ТТ | Полный цикл + Excel-калькулятор. Общего эффекта нет, но в 8% точек пуш лучше. Бизнес-инструмент для заказчика. |
